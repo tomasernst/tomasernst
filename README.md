@@ -2,7 +2,7 @@
 
 - Hi, I’m @tomasernst
 - Student in Pontificia Universidad Católica de Chile
-- Majoring in Computing and Information Systems, with a minor in Industrial Engineering
+- Majoring in Computing and Information Systems, with a minor on Industrial Engineering
 - Contact me at ternst@uc.cl
 
 <!---
