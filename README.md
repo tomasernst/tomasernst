@@ -1,7 +1,7 @@
 # Tomás Ernst Bianchi
 
 - Hi, I’m @tomasernst
-- Student in Pontificia Universidad Católica de Chile
+- Student @ Pontificia Universidad Católica de Chile
 - Contact me at ternst@uc.cl
 
 <!---
